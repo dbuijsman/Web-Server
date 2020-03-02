@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConnectionHandler",
+            "request": "launch",
+            "mainClass": "nl.sogyo.webserver.ConnectionHandler",
+            "projectName": "webserver"
+        }
+    ]
+}
